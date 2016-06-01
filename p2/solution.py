@@ -19,7 +19,7 @@ def main():
 		if fib > 4000000:
 			break
 		if fib % 2 == 0:
-			print fib		
+#			print fib		
 			sum += fib
 		i += 1
 
